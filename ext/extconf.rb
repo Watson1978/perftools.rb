@@ -8,6 +8,7 @@ def sys(cmd)
   ret
 end
 
+require 'rubygems'
 require 'mkmf'
 require 'fileutils'
 
